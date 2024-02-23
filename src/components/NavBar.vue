@@ -1,4 +1,10 @@
 <template>
+  <div>
+    <p>FREE SHIPPING ON ORDERS OVER R500</p>
+  </div>
+<div>
+  <img src="https://iili.io/JGzmSLb.png" class="w-25" alt="JGzmSLb.png">
+</div>
 <nav class="navbar navbar-expand-lg bg-body-tertiary">
   <div class="container-fluid">
     <a class="navbar-brand" href="#">Navbar</a>
@@ -6,7 +12,7 @@
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
-      <ul class="navbar-nav">
+      <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
         <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="#">Home</a>
         </li>
