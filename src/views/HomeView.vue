@@ -1,12 +1,10 @@
 <template>
   <div class="home">
-    
+    <h2>This is the home page.</h2>
   </div>
 </template>
 
 <script>
-
-
 export default {
   name: 'HomeView',
   components: {
@@ -14,3 +12,7 @@ export default {
   }
 }
 </script>
+
+<style scoped>
+
+</style>

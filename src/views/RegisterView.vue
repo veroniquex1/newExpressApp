@@ -1,6 +1,6 @@
 <template>
     <div>
-
+        <h2>This is the register page.</h2>
     </div>
 </template>
 
