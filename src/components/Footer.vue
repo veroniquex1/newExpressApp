@@ -8,7 +8,7 @@
 
 <script>
     export default {
-        name: 'Footer',
+        name: 'FooterComp',
         data() {
             return {
                 currYear: new Date().getFullYear()
@@ -18,7 +18,4 @@
 </script>
 
 <style scoped>
-.footer{
-    bottom: 0;
-}
 </style>
