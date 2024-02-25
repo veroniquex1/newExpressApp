@@ -1,7 +1,7 @@
 <template>
     <div class="container">
         <div class="row">
-            <p class="footer">BlueFemme &copy; <span>{{ currYear }}</span></p>
+            <p class="footer">BLUE<span class="femme">femme</span> &copy; <span>{{ currYear }}</span></p>
         </div>
     </div>
 </template>
@@ -18,4 +18,14 @@
 </script>
 
 <style scoped>
+
+.footer {
+    padding-top: 10px;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+}
+.femme {
+    
+}
 </style>
