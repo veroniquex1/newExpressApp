@@ -96,7 +96,7 @@ body {
   color: #4E96D3;
 }
 .nav-item a.router-link-exact-active {
-  color: black;
+  color: #4E96D3;
   border-radius: 25px;
   box-shadow: 0px 0px 20px 0px #4E96D3;
 }
