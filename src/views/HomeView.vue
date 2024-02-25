@@ -42,12 +42,14 @@ export default {
 
 template {
   font-family: "Palanquin", sans-serif;
-  font-family: 'Courier New', Courier, monospace;
 }
 .buttons {
   width: 100%;
   display: flex;
   justify-content: center;
+}
+a {
+  text-decoration: none;
 }
 .btn {  
   border-radius: 30px;
@@ -58,6 +60,7 @@ template {
   border: none;
   cursor: pointer;
   transition: .4s;
+  background-color: #d6c7c7;
 }
 .d-block {
   width: 100%;
