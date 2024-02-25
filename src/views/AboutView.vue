@@ -22,7 +22,8 @@
 <div class="aboutCont">
   <h2 id="heading">about us</h2>
   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet ullam illo accusantium accusamus itaque nisi culpa adipisci quidem. Quae, assumenda. Omnis ducimus quis reiciendis odio, voluptas eius temporibus harum eligendi.
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque illum quae, similique maiores quisquam recusandae tempore autem dolor, sed unde harum. Exercitationem nesciunt maxime tenetur eligendi totam aliquam quod veniam.</p>
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque illum quae, similique maiores quisquam recusandae tempore autem dolor, sed unde harum. Exercitationem nesciunt maxime tenetur eligendi totam aliquam quod veniam.</p>
+
   <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quaerat, excepturi non? Repellendus placeat fugiat dolore in perspiciatis ipsa quos suscipit cupiditate ut, ratione nesciunt enim adipisci sint at incidunt hic.
   Sunt alias in maxime quis quaerat rerum suscipit, amet nisi nesciunt sit perspiciatis fugiat omnis tempore laboriosam, modi quasi impedit sint eos nemo pariatur quibusdam mollitia. Voluptate sapiente iusto facilis?
   Suscipit, nemo voluptates eum, quibusdam inventore quo, doloremque dolores explicabo quia expedita voluptatem in quasi vero quod? Eum minima debitis, quibusdam similique sunt totam, nihil libero ipsum vero repellat magnam.</p>
