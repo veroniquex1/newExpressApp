@@ -18,9 +18,9 @@
                     </router-link>
                 </li>
                 <li class="nav-item">
-                    <router-link to="/about" a class="nav-link">
-                      ABOUT
-                    </router-link>
+                  <router-link to="/about" a class="nav-link">
+                    ABOUT
+                  </router-link>
                 </li>
                 <li class="nav-item">
                     <router-link to="/products" a class="nav-link">
@@ -33,10 +33,15 @@
                     </router-link>
                 </li>
                 <li class="nav-item">
-                    <router-link to="/contact" a class="nav-link">
+                  <router-link to="/contact" a class="nav-link">
                       CONTACT
                     </router-link>
-                </li>  
+                  </li>  
+                  <li class="nav-item">
+                      <router-link to="/register" a class="nav-link">
+                        REGISTER
+                      </router-link>
+                  </li>
       </ul>
     </div>
   </div>

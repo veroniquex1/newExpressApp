@@ -22,6 +22,10 @@
   Assumenda distinctio iure omnis quos unde explicabo perferendis deserunt vitae! Placeat, eum, rerum doloribus iste, veniam voluptatibus a numquam praesentium quibusdam aliquam necessitatibus. Dicta deserunt facilis modi optio rem accusantium?
   </p>
 </div>
+  <div class="buttons">
+    <button class="btn"><a href="/products">Get shopping</a></button>
+    <button class="btn"><a href="/about">Read more about us</a></button>
+  </div>
 </template>
 
 <script>
@@ -34,13 +38,35 @@ export default {
 </script>
 
 <style scoped>
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Palanquin:wght@100;200;300;400;500;600;700&display=swap');
+
+template {
+  font-family: "Palanquin", sans-serif;
+  font-family: 'Courier New', Courier, monospace;
+}
+.buttons {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.btn {  
+  border-radius: 30px;
+  color: #000;
+  padding: 10px;
+  margin: 10px;
+  font-size: 12px;
+  border: none;
+  cursor: pointer;
+  transition: .4s;
+}
 .d-block {
   width: 100%;
 }
 .shortDesc {
   color: black;
-  padding: 50px;
+  padding-top: 50px;
   padding-left: 100px;
   padding-right: 100px;
+  font-size: large;
 }
 </style>
