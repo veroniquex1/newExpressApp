@@ -14,27 +14,27 @@
       <ul class="navbar-nav">
         <li class="nav-item">
                     <router-link to="/" a class="nav-link">
-                      home
+                      HOME
                     </router-link>
                 </li>
                 <li class="nav-item">
                     <router-link to="/about" a class="nav-link">
-                      about
+                      ABOUT
                     </router-link>
                 </li>
                 <li class="nav-item">
                     <router-link to="/products" a class="nav-link">
-                      products
+                      PRODUCTS
                     </router-link>
                 </li>
                 <li class="nav-item">
                     <router-link to="/admin" a class="nav-link">
-                      admin
+                      ADMIN
                     </router-link>
                 </li>
                 <li class="nav-item">
                     <router-link to="/contact" a class="nav-link">
-                      contact
+                      CONTACT
                     </router-link>
                 </li>  
       </ul>
@@ -77,18 +77,22 @@ img {
   margin-right: 25px;
   display: flex;
   justify-content: center;
+  color: black;
 }
 nav {
   padding-left: 30px;
   padding-right: 30px;
 }
+body {
+  color: black;
+}
 .nav-item a:hover{
   font-weight: bold;
-  color: #a8dadc;
+  color: #4E96D3;
 }
 .nav-item a.router-link-exact-active {
-  color: #a8dadc;
+  color: black;
   border-radius: 25px;
-  box-shadow: 0px 0px 10px 0px #a8dadc;
+  box-shadow: 0px 0px 20px 0px #4E96D3;
 }
 </style>
